@@ -1907,6 +1907,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\git_extensions_logo_final_mixed.ico" />
+    <None Include="Resources\git-extensions-logo-final_mixed-256.ico" />
     <Content Include="Resources\Icons\commit_error.png" />
     <Content Include="Resources\Icons\commit_ok.png" />
     <Content Include="Resources\Icons\commit_warning.png" />
